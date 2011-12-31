@@ -1,0 +1,69 @@
+/* ================================================================== */
+/* Created by: Konrad Kowalski <kkowalskipl@gmail.com> on 25-09-2011  */
+/* ================================================================== */
+
+@charset "utf-8";
+
+/* === ResetCSS ===================================================== */
+
+html {
+	color: #000;
+	background: #FFF;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	text-align: center;
+}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,select,p,blockquote,th,td {
+	margin: 0;
+	padding: 0;
+}
+div {
+	margin: 0 auto;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	clear: both;
+}
+fieldset,img {
+	border: 0;
+}
+address,button,caption,cite,code,dfn,em,input,optgroup,option,select,strong,textarea,th,var {
+	font: inherit;
+}
+del,ins {
+	text-decoration: none;
+}
+ul,ol,li {
+	list-style: none;
+}
+caption,th {
+	text-align: left;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size: 100%;
+	font-weight: normal;
+}
+q:before,q:after {
+	content: '';
+}
+abbr,acronym {
+	border: 0;
+	font-variant: normal;
+}
+sup {
+	vertical-align: baseline;
+}
+sub {
+	vertical-align: baseline;
+}
+legend {
+	color: #000;
+}
+a {
+	color: #333;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
