@@ -64,7 +64,7 @@ input[type=submit], button {
 	cursor: pointer;
 }
 input, select {
-	vertical-align:middle;
+	vertical-align: middle;
 }
 a {
 	color: #000;
