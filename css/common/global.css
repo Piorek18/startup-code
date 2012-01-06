@@ -28,9 +28,8 @@ div {
 	margin: 0 auto;
 }
 code, kbd, samp, pre, tt, var, textarea, input, select, isindex, listing, xmp, plaintext, button {
+	color: #666;
 	font: inherit;
-	font-size: 11px;
-	font-family: inherit;
 	white-space: normal;
 }
 input, select, textarea, button {
