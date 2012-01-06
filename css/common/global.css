@@ -7,7 +7,6 @@
 /* === GlobalCSS ==================================================== */
 
 body {
-	line-height: 1;
 	background: #FFF;
 	font-size: 11px;
 	font-family: Tahoma, Verdana, Arial, sans-serif;
@@ -27,7 +26,6 @@ table th {
 }
 div {
 	margin: 0 auto;
-	text-align: center;
 }
 code, kbd, samp, pre, tt, var, textarea, input, select, isindex, listing, xmp, plaintext, button {
 	font: inherit;
